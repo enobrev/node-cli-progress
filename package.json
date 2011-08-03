@@ -1,0 +1,12 @@
+{
+    "author": "Mark Armendariz <src@enobrev.com> (http://enobrev.com/)",
+    "name": "cli-progress",
+    "main": "index",
+    "description": "Show a Progress Bar on the Command Line",
+    "version": "0.1.1",
+    "homepage": "http://enobrev.com/",
+    "repository": {
+    "url": ""
+    },
+    "main" : "./lib/cli-progress"
+}
